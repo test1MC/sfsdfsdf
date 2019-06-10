@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalConceptSet
+  SavedSource="file:///C:/Users/randonie/Documents/My Translated Projects/s-12.liprjf/Target/Output/randonie/Temporary/GlobalConceptSet v.6.catapultconceptset">
+  <Concepts />
+  <SourceUrls>
+    <Url
+      Source="NewTopic.htm" />
+    <Url
+      Source="NewTopic.htm.skl" />
+    <Url
+      Source="NewTopic.htm.xlf" />
+    <Url
+      Source="Topic.htm" />
+    <Url
+      Source="Topic.htm.skl" />
+    <Url
+      Source="Topic.htm.xlf" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl.skl" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl.xlf" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css.skl" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css.xlf" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.skl" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.xlf" />
+  </SourceUrls>
+  <UsedUrls />
+  <UsedConceptControlUrls />
+</CatapultGlobalConceptSet>
